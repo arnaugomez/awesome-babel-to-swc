@@ -10,6 +10,7 @@ A list of **every Babel plugin and their SWC equivalent**. Plus lots of tools to
  Babel plugin | SWC plugin :crab: | Other solutions
 -|-|-
 [babel-plugin-inline-react-svg](https://www.npmjs.com/package/babel-plugin-inline-react-svg) | No | [Solution 1](https://github.com/vercel/next.js/discussions/33161)
+[babel-plugin-transform-remove-console](https://babeljs.io/docs/en/babel-plugin-transform-remove-console/) | [plugin-strip-console](https://swc.rs/docs/usage/plugins) |
 
 ## Learn SWC
 
@@ -25,7 +26,7 @@ A list of **every Babel plugin and their SWC equivalent**. Plus lots of tools to
 
 ### Roadmap 🏎️
 
-Our main goal is to create a comprehensive collection of Babel plugins and their SWC equivalent.
+Our main goal is to **create a complete collection of Babel plugins and their SWC equivalent**.
 We also provide tools and information that can help developers migrate from Babel to SWC.
 
 ### How to contribute 🏗️
