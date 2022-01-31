@@ -31,7 +31,7 @@ We also provide tools and information that can help developers migrate from Babe
 
 ### How to contribute 🏗️
 
-¿Do you have a Babel/SWC plugin that is not in the list? ¿Do you want to share a resource? ¿Have you found a typo? You can submit a pull request and we will review it in under 24hrs.
+Do you have a Babel/SWC plugin that is not in the list? Would you like to share a resource? Have you found a typo? Submit a pull request and we will review it in under 24 hours.
 
 If you have a Babel plugin but haven't found its SWC equivalent, you are encouraged to:
 
