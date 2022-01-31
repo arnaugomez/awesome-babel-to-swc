@@ -1,4 +1,4 @@
-# Awesome Babel to SWC 😎 :crab:
+# Awesome Babel to SWC 😎 :crab: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of **every Babel plugin and their SWC equivalent**. Plus lots of tools to help you migrate from Babel to SWC.
 
